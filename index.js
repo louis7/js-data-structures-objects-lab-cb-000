@@ -18,5 +18,4 @@ function    deleteFromDriverByKey(driver, key){
 
   driver[key].destroy;
 
-
 }
